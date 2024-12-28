@@ -1,3 +1,4 @@
+![baner sql](https://github.com/user-attachments/assets/5f93b827-992f-4ae5-a25c-528e9d2a61b6)
 # Global Superstore - SQL Queries for Business Insights
 This repository contains a set of SQL queries designed to extract business insights from the **[Global Superstore](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)** dataset.
 
