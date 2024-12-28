@@ -1,6 +1,8 @@
 # Global Superstore - SQL Queries for Business Insights
+This repository contains a set of SQL queries designed to extract business insights from the **[Global Superstore](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)** dataset.
 
-This repository contains a set of SQL queries designed to extract business insights from the **[Global Superstore](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)** dataset. The queries focus on answering key business questions, such as identifying top products, customers, and regions, as well as analyzing sales trends, profits, and discounts.
+## File Structure
+- **`answering-business-questions.sql`**: The queries focus on answering key business questions, such as identifying top products, customers, and regions, as well as analyzing sales trends, profits, and discounts.
 
 ## Queries Included
 
